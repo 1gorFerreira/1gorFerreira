@@ -10,11 +10,11 @@
 
 <p>
   <em>
-    Tenho 22 anos, sou do Rio de Janeiro e estou em busca de estágio na área de programação.
+    Tenho 22 anos, sou do Rio de Janeiro e estou em busca de migrar para um estágio na área de programação.
   </em>
 </p>
 
-- 🔭 Atualmente sou militar da Marinha do Brasil trabalhando no setor de processamento de dados
+- 🔭 Atualmente sou militar da Marinha do Brasil estagiando no setor de processamento de dados
 - 🎓 Cursando Análise e desenvolvimento de sistemas pela Estácio de Sá
 - 🌱 Foco de estudo: Java com SpringBoot
 - ⚡ Certificado DevSuperior: https://learn.devsuperior.com/certificados/6052201
