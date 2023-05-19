@@ -1,38 +1,25 @@
-<h1 align='left'>
-  Olá, sou o Igor Ferreira!
-  <br/>
-</h1>
-<p align='left'>
-  Desenvolvedor Back-End
-</p>
+<h2>ℹ️ SOBRE MIM</h2>
 
-### 😃 Sobre mim:
+<ul style="list-style-type: disc;">
+    <li>Nome: Igor</li>
+    <li>Idade: 23</li>
+    <li>Cidade: RJ</li>
+    <li>País: Brasil</li>
+    <li>CEO do <a href="https://loja.flamemc.com.br/">FLAMEMC</a></li>
+    <li>Desenvolvedor Back-End</li>
+    <li>Ex-Militar de carreira da Marinha do Brasil (2019-2023)</li>
+</ul>
 
-<p>
-  <em>
-    Tenho 22 anos, sou do Rio de Janeiro e estou em busca de migrar para um estágio na área de programação.
-  </em>
-</p>
+<h2>💻 EXPERIÊNCIAS E HABILIDADES</h2>
 
-- 🔭 Atualmente sou militar da Marinha do Brasil estagiando no setor de processamento de dados
-- 🎓 Cursando Análise e desenvolvimento de sistemas pela Estácio de Sá
-- 🌱 Foco de estudo: Java com SpringBoot
-- ⚡ Certificado DevSuperior: https://learn.devsuperior.com/certificados/6052201
+<ul style="list-style-type: disc;">
+    <li>Auxiliar no Centro de Processamento de Dados na Marinha do Brasil (2021-2023)</li>
+    <li>Cursando Análise e Desenvolvimento de Sistemas</li>
+    <li>Certificado Bootcamp Spring (DevSuperior): https://learn.devsuperior.com/certificados/6052201</li>
+    <li>Certificado Especialista Spring REST (AlgaWorks): https://app.algaworks.com/certs/DGJ2GH8V0U</li>
+</ul>
 
-### 📊 Metas 2022:
-
-- 📂 Expandir meu portfólio
-
-- 📈 Conseguir uma experiência na área
-
-### ⚡ Tecnologias:
-
-Estas são algumas das tecnologias e ferramentas que trabalho:
-
-[![Minhas habilidades](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,git,github,heroku,netlify&theme=light)](https://skillicons.dev)
-
-💬 Quer me conhecer?
-
+<h2>📞 CONTATO </h2>
 <div>
   <a href="https://www.linkedin.com/in/igor-ferreira-366a44234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igorferreiradaniel99@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
