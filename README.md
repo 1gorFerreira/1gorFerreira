@@ -5,7 +5,7 @@
     <li>Idade: 23</li>
     <li>Cidade: RJ</li>
     <li>País: Brasil</li>
-    <li>CEO do <a href="https://loja.flamemc.com.br/">FLAMEMC</a></li>
+    <li>CEO do <a href="https://www.flamemc.com.br/">FLAMEMC</a></li>
     <li>Desenvolvedor Back-End</li>
     <li>Ex-Militar de carreira da Marinha do Brasil (2019-2023)</li>
 </ul>
