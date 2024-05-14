@@ -20,7 +20,7 @@
     <li>Certificado Especialista Spring REST (AlgaWorks): https://app.algaworks.com/certs/DGJ2GH8V0U</li>
 </ul>
 
-<h2>📞 CONTATO </h2>
+<h2>📱 CONTATO </h2>
 <div>
   <a href="https://www.linkedin.com/in/igor-ferreira-366a44234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igorferreiradaniel99@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
