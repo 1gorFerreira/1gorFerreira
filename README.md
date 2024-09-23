@@ -6,7 +6,7 @@
     <li>Cidade: RJ</li>
     <li>País: Brasil</li>
     <li>CEO do <a href="https://www.flamemc.com.br/">FLAMEMC</a></li>
-    <li>Estagiário de desenvolvimento na Secretaria de Estado de Fazenda do Rio de Janeiro</li>
+    <li>Analista de sistemas na Secretaria de Estado de Fazenda do Rio de Janeiro</li>
     <li>Desenvolvedor Back-End</li>
     <li>Ex-Militar de carreira da Marinha do Brasil (2019-2023)</li>
 </ul>
