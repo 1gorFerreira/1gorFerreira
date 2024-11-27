@@ -15,9 +15,9 @@
 
 <ul style="list-style-type: disc;">
     <li>Auxiliar no Centro de Processamento de Dados na Marinha do Brasil (2021-2023)</li>
-    <li>Cursando Análise e Desenvolvimento de Sistemas</li>
-    <li>Certificado Bootcamp Spring (DevSuperior): https://learn.devsuperior.com/certificados/6052201</li>
+    <li>Formado no curso de Análise e Desenvolvimento de Sistemas</li>
     <li>Certificado Especialista Spring REST (AlgaWorks): https://app.algaworks.com/certs/DGJ2GH8V0U</li>
+    <li>Certificado Bootcamp Spring (DevSuperior): https://learn.devsuperior.com/certificados/6052201</li>
 </ul>
 
 <h2>📱 CONTATO </h2>
